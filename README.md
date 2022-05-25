@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Andrew Test
-- 👀 I’m interested in coding and data analysis
-- 🌱 I’m currently learning object-oriented programming and systems programming
-- 📫 You can reach me by email at drew@theparkers.org
+This is the collection of my programs written to help solve Project Euler problems found at https://projecteuler.net/
+
+I write these programs with two goals in mind: speed and readability. I make my programs run efficiently, and I use comments and descriptive naming conventions for variables and classes while doing that.
+
+Some programs are built expressly to solve the given problem, but some I intentionally write to make the program work for other problems and purposes.
