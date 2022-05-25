@@ -4,4 +4,4 @@ I write these programs with two goals in mind: speed and readability. I make my 
 
 Some programs are built expressly to solve the given problem, but some I intentionally write to make the program work for other problems and purposes.
 
-These are all original programs written only by myself. If you would like to use these programs for yourself, please reach out to me first for permission at my email: drew@theparkers.org.
+These are all original programs written only by myself. If you would like to use these programs for yourself, please reach out to me for permission by email at drew@theparkers.org.
