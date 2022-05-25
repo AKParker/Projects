@@ -1,4 +1,4 @@
-This is the collection of my programs written to help solve Project Euler problems found at https://projecteuler.net/
+This is my collection of programs written to help solve Project Euler problems found at https://projecteuler.net/
 
 I write these programs with two goals in mind: speed and readability. I make my programs run efficiently, and I use comments and descriptive naming conventions for variables and classes while doing that.
 
